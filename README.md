@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @davfru
-- 👀 I’m interested in everything can improve me as person and a programmer
+👋 Hi, I’m @davfru check my website davidefruci.com
+
 
 <!---
 davfru/davfru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
