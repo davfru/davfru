@@ -1,4 +1,4 @@
-👋 Hi, I’m @davfru check my [website](www.davidefruci.com)
+👋 Hi, I’m @davfru check my [website](https://www.davidefruci.com)
 
 
 <!---
