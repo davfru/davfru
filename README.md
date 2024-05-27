@@ -1,6 +1,8 @@
-👋 Hi, I’m @davfru check my [website](https://davidefruci.com)
+👋 Ciao, I’m @davfru 
 
-🏢 My organization [codedincloud](https://github.com/codedincloud)
+💻 My [website](https://davidefruci.com)
+
+🏢 My [organization](https://github.com/codedincloud)
 
 
 <!---
