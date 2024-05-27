@@ -1,6 +1,6 @@
 👋 Hi, I’m @davfru check my [website](https://davidefruci.com)
 
-My organizaton [codedincloud](https://github.com/codedincloud)
+🏢 My organization [codedincloud](https://github.com/codedincloud)
 
 
 <!---
