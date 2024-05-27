@@ -1,8 +1,6 @@
-👋 Ciao
+👋 Ciao, I am a software developer.
 
-💻 My [website](https://davidefruci.com)
-
-🏢 My [organization](https://github.com/codedincloud)
+💻 [my website](https://davidefruci.com) 🏢 [my organization](https://github.com/codedincloud)
 
 
 <!---
