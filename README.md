@@ -1,7 +1,6 @@
 👋 Ciao, I am a software developer.
 
-💻 [my website](https://davidefruci.com) 🏢 [my organization](https://github.com/codedincloud)
-
+💻 [my website](https://davidefruci.com)
 
 <!---
 davfru/davfru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
