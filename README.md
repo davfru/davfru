@@ -1,4 +1,4 @@
-👋 Ciao, I’m @davfru 
+👋 Ciao
 
 💻 My [website](https://davidefruci.com)
 
